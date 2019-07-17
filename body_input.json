@@ -1,6 +1,6 @@
 {
     "properties": {
-        "displayName": "$policyname.properties.displayname",
+        "displayName": "System Center Policies",
         "metadata": {
             "assignedBy": "Lukasz.Boduch@nordcloud.com Boduch"
         },
