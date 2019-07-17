@@ -1,6 +1,6 @@
 {
     "properties": {
-        "displayName": "System Center Policies",
+        "displayName": "Enable Monitoring in Azure Security Center",
         "metadata": {
             "assignedBy": "Lukasz.Boduch@nordcloud.com Boduch"
         },
