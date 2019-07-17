@@ -1,6 +1,6 @@
 {
     "properties": {
-        "displayName": "Enable Monitoring in Azure Security Center2",
+        "displayName": "$policyname.properties.displayname",
         "metadata": {
             "assignedBy": "Lukasz.Boduch@nordcloud.com Boduch"
         },
